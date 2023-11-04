@@ -5,6 +5,7 @@ import {
   addEmpresas,
   updateEmpresas,
   deleteEmpresas,
+  // buscaCep,
 } from "../controllers/controllers.js";
 
 const Rotas = express.Router();
